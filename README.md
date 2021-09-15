@@ -45,3 +45,6 @@ The apps written in the following JavaScript frameworks/libraries:
 - [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=swa_workshop-github-jopapa)
 - [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=swa_workshop-github-jopapa)
 - [Azure Free Trial](https://azure.microsoft.com/free/?wt.mc_id=swa_workshop-github-jopapa)
+
+
+test
