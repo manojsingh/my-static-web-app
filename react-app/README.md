@@ -42,3 +42,5 @@ Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API w
 - [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=shopathome-github-jopapa)
 - [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=shopathome-github-jopapa)
 - [Azure Free Trial](https://azure.microsoft.com/free/?wt.mc_id=shopathome-github-jopapa)
+
+test react
